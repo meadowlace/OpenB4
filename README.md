@@ -1,2 +1,1 @@
-# OpenB4
-Raven B4 built version from it's dumped form
+credit to https://codeberg.org/abusez/OpenB4 i built it from there quick checked
